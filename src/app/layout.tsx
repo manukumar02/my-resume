@@ -18,7 +18,7 @@ export const dynamic = 'force-dynamic';
 export const revalidate = 5;
 export const dynamicParams = true;
 export const fetchCache = 'force-no-store';
-export const runtime = 'nodejs';
+export const runtime = 'edge';
 export const preferredRegion = 'auto';
 export const maxDuration = 5;
 
